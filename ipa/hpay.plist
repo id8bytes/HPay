@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kingkr.bianselong01</string>
+				<string>com.kingkr.hpay</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
